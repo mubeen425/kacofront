@@ -1,5 +1,6 @@
 # 🙈 Kaco Frontend
 
-This project contains the main features of the kaco application.
+install node 16
 
-If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
+run npm i
+run npm start
