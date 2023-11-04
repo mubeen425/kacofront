@@ -20,7 +20,7 @@ export default {
   },
   pancakeProfile: {
     [ChainId.MAINNET]: '0xDf4dBf6536201370F95e06A0F8a7a70fE40E388a',
-    [ChainId.TESTNET]: '0x4B683C7E13B6d5D7fd1FeA9530F451954c1A7c8A',
+    [ChainId.TESTNET]: '0x5A6b2DD5372aB024bB5BCefe352760f978e7815d',
   },
   pancakeRabbits: {
     [ChainId.MAINNET]: '0xDf7952B35f24aCF7fC0487D01c8d5690a60DBa07',

@@ -68,7 +68,7 @@ const SwitchChainTooltip = (
     <h3 style={{ fontSize: '16px', fontWeight: 800, color: '#1BD3D5' }}>Select a Network</h3>
     <Text fontSize="12px" bold mb="26px" mt="12px" color="#fff">
       {/*  @ts-ignore */}
-      You are currently browsing Kaco on {chainKey === 'SDN' ? 'SDN' : 'BSC'} network
+      You are currently browsing Kaco on {chainKey === 'SDN' ? 'SDN' : 'Base'} network
     </Text>
     <Flex
       style={{ cursor: 'pointer' }}
